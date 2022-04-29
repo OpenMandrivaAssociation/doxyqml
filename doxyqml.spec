@@ -3,7 +3,7 @@
 Name:		doxyqml
 Summary:	Doxyqml lets you use Doxygen to comment your QML classes
 Version:	0.5.1
-Release:	1
+Release:	2
 Group:		Development/Tools
 Source0:	https://invent.kde.org/sdk/doxyqml/-/archive/%{version}/doxyqml-%{version}.tar.gz
 License:	MIT
